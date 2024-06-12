@@ -1,3 +1,5 @@
+![Naturalisation Trends Germany](data/Naturalisationheader.jpg)
+
 # Naturalisation Trends in Germany
 
 ## Overview:
